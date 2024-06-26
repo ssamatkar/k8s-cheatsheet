@@ -493,8 +493,8 @@ cat token.txt
 ```
 Retrieve information about the existing clusters
 ```
-```
 . kops.sh
+```
 ```
 kops get cluster
 ```
