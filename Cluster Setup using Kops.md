@@ -54,3 +54,5 @@ kops export kubeconfig --admin
 ```
 kops delete cluster --name <cluster-naame> --state s3://<cluster-naame> --yes
 ```
+
+
